@@ -1,0 +1,27 @@
+---
+title: "tidymodels"
+filters:
+   - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+---
+
+# 개념 
+
+::: {#fig-machine-learning layout="[1, 4]"}
+
+![](fig/vas3k_venn.jpg)
+![](fig/vas3k_machine_learning.jpg)
+![](fig/vas3k_ml_details.jpg)
+![](fig/vas3k_classical_ml.jpg)
+
+[vas3k blog, "Machine Learning for Everyone - In simple words. With real-world examples. Yes, again"](https://vas3k.com/blog/machine_learning/)
+:::
+
+
+
+
+
